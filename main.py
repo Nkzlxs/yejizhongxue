@@ -4,7 +4,6 @@ import requests
 
 request_type = ("sendMessage", "sendPoll", "sendDice",
                 "sendContact", "sendVenue", "getUpdates", "forwardMessage")
-# BOT_TOKEN = "1100044193:AAHVCn9H2lPOPPPRw0wcKMHb3sLc-gezoGo"+"/"
 BOT_TOKEN = "YourTelegramBotToken"+"/"
 THE_URL = "https://api.telegram.org/bot"
 
